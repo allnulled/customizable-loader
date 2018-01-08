@@ -6,7 +6,7 @@ It lets you...:
 
 1. Set your own basepath for each loader you instantiate.
 
-2. Extend each loader to add to it new capabilities.
+2. Extend each loader to add new capabilities to it.
 
 3. Specify the paths through an array of strings, or through a string.
 
@@ -18,7 +18,7 @@ It lets you...:
 
 #### 1. Import it in your code:
 
-      var Loader = require("just-a-loader");
+      var Loader = require("customizable-loader");
 
 #### 2. Create your own custom loader
 
