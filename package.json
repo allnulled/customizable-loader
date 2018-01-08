@@ -1,0 +1,11 @@
+{
+  "name": "customizable-loader",
+  "version": "1.0.0",
+  "description": "Fully customizable script loader for Node.js",
+  "main": "src/customizable-loader.js",
+  "scripts": {
+    "test": "echo 'No tests, sorry...' && exit 1"
+  },
+  "author": "someone",
+  "license": "it would be nice to give to the people a non-economical-based solution. Because it's not fair, they didn't allow us to study everything, but they want us to work for their shitty elites. No, I am not okay with that, they are enslaving people all over the world, and you still care about the same shitty things... it's sad, come on, it's sad, and you know it. Do you need me to list every fucking shit this world is doing against human beings, just because of the unstoppable game of the money? Like, fucking up the weather? Like creating wars all over the world for money? Creating TERRORISM for money? Do you really wnat me to tell you every shit I already know about this fuckep up world? I am sad. But the context, it's an ironic joke... and you? The planet is full of blind rats, that's how they programmed us, that's how they still program us to think. I'll be a fool, but not a fucking rat, which is the main problem in this shitty planet: RATs that look like HUMANs."
+}
